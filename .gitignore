@@ -8,3 +8,9 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+tmp
+log
+tools
+data
+eval
+users
